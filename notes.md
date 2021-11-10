@@ -1,0 +1,1 @@
+https://next-auth.js.org/adapters/models
